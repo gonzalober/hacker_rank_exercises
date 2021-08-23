@@ -1,0 +1,31 @@
+.DS_Store
+
+# Created by https://www.gitignore.io/api/java,gradle
+
+### Java ###
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+
+
+.gradle
+/build/
+
+gradle-app.setting
+
+!gradle-wrapper.jar
+
+.gradletasknamecache
+
+
